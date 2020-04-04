@@ -1,0 +1,33 @@
+echo "# Dash-projects" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/LinorMor/Dash-projects.git
+git push -u origin master
+
+<!DOCTYPE html>
+<head>
+<title>Linor Mor</title>
+<style> 
+body{
+text-align:center;
+background: url("https://images.app.goo.gl/Z2xp4g1XJNp3dZqC6");
+background-size:cover;
+background-position:center;
+  color:pink;
+  font-family:helvetica;
+}
+input{
+border:0;
+padding:10px;
+      font-size:18px;
+}
+</style>
+</head>
+<body>
+<img scr= url("https://images.app.goo.gl/QbnYavu4dXXWLT139")>
+<h1> Linor Mor</h1>
+<p> hi i'm Linor, a junior programmer.Say hello!</p>
+<inpur type="Email" placeholder="your email">
+<input type="submit">
+</body>
